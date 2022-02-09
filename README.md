@@ -9,17 +9,17 @@ Link to UML Class Diagram:
 << add link here >>
 
 Three Use Cases that you will implement first:
-1.
-2.
-3.
+1. -
+2. - 
+3. - 
 
 Which classes & methods do you need to implement for these use cases?
 (Indicated which team member is responsible for the implemenation)
-1.
-2.
-3.
-4.
-<< add more as needed >>
+1. -
+2. -
+3. -
+4. -
+5. << add more as needed >>
 
 Don't forget to use Test-Driven Development (TDD)
 1. Write Class and Method Function Headers
