@@ -1,6 +1,9 @@
 # CS345 - Software Engineering at Ithaca College
 ## Project 01 - Bank Software
 
+Names:
+<< add 3-4 names here >>
+
 Link to UML Use Case Diagram:
 << add linkk here >>
 
