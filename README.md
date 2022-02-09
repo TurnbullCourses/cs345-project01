@@ -26,3 +26,5 @@ Don't forget to use Test-Driven Development (TDD)
 2. Write Tests
 3. Implement Method Functions
 
+Good Luck!
+
